@@ -10,6 +10,6 @@ export class MessageComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.name="mahanth reddy gudi!";
+    this.name="mahanth reddy gudi chinna";
   }
 }
